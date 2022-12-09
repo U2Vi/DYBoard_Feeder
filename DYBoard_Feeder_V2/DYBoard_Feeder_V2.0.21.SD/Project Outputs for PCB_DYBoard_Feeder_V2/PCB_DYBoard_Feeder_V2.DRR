@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_DYBoard_Feeder_V2.PcbDoc   09/12/2022  16:19:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_DYBoard_Feeder_V2-RoundHoles.TXT
+ASCII SlotHoles File : PCB_DYBoard_Feeder_V2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.25mm)                                            Round             44        PTH        2.93inch (74.33mm)
+T2      20mil (0.508mm)                                           Round             10        PTH        1.35inch (34.20mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.17mm)
+T4      30mil (0.762mm)                                           Slot              10        PTH        2.93inch (74.46mm)
+T5      83mil (2.1mm)                                             Round             2         PTH        0.37inch (9.45mm)
+T6      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T7      32mil (0.8mm)                                             Round             2         NPTH       0.25inch (6.25mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              74
+
+Total Processing Time (hh:mm:ss) : 00:00:00
