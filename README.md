@@ -41,3 +41,4 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
 - Mise en forme des répertoirs 
 - Notice d'assemblage et d'utilisation
 - Utiliser les outils de configuration de SiliconLabs
+- Ajouter des photos
