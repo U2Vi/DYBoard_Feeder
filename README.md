@@ -33,7 +33,7 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
 
 ## Versionement :
 
-* V1 04/2022 [4065-V1.0.SD] : 
+* V1 du 04/2022 [4065-V1.0.SD] : 
   - Connectique côté PC : Micro USB type B. 
   - Connectique côté cartes : Connecteur molex type 052207-0633 (pour nappe type 015167-0212). 
   - INTERFACE-FT232RL de FTDI.
@@ -42,7 +42,7 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
   - Voyants RX/TX.
 Carte testée et fonctionnelle.
  
-* V2 12/2022 [2517-V2.0.21.SD] : 
+* V2 du 12/2022 [2517-V2.0.21.SD] : 
   - Connectique côté PC : USB Type C.  
   - Connectique côté cartes : 
     -> Connecteur molex type 052207-0633 (pour nappe type 015167-0212).
