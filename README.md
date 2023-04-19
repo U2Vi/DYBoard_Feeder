@@ -33,8 +33,28 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
 
 ## Versionement :
 
-* V1 : 
-* V2 : 
+* V1 04/2022 [4065-V1.0.SD] : 
+  - Connectique côté PC : Micro USB type B. 
+  - Connectique côté cartes : Connecteur molex type 052207-0633 (pour nappe type 015167-0212). 
+  - INTERFACE-FT232RL de FTDI.
+  - Selecteur Vout 5V ou 3.3V
+  - Sélecteur d'état haut des broches de communication 5V ou 3.3V
+  - Voyants RX/TX.
+Carte testée et fonctionnelle.
+ 
+* V2 12/2022 [2517-V2.0.21.SD] : 
+  - Connectique côté PC : USB Type C.  
+  - Connectique côté cartes : 
+    -> Connecteur molex type 052207-0633 (pour nappe type 015167-0212).
+    -> Pads pour assemblage carte à carte (brasure). 
+    -> Pads pour assemblage par fils. 
+  - INTERFACE-CP2102N-A02-GQFN24R de Silicon Labs.
+  - Selecteur Vout 5V ou 3.3V
+  - Suppression du sélecteur d'état haut des broches de communication 5V ou 3.3V. Etats haut des E/S fixées à 3.3V.
+  - Ajout de protections anti-ESD 
+  - Ajout d'une protection par fusible (63V 1A).
+  - Pour les voyants RX/TX, nécéssite d'être configuré par le logiciel "Xpress Configurator" de Silicon Labs. 
+Carte testée, D+ et D- inversés au niveau du connecteur USB-C, design à refaire (aprés correction, le reste est fonctionnelle).
 
 ## A faire :
 
@@ -42,3 +62,4 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
 - Notice d'assemblage et d'utilisation
 - Utiliser les outils de configuration de SiliconLabs
 - Ajouter des photos
+- Ajouter empreinte carte à carte Althium
