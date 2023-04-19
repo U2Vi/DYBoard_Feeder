@@ -40,7 +40,7 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
   - Selecteur Vout 5V ou 3.3V
   - Sélecteur d'état haut des broches de communication 5V ou 3.3V
   - Voyants RX/TX.
-Carte testée et fonctionnelle.
+-> Carte testée et fonctionnelle.
  
 * V2 du 12/2022 [2517-V2.0.21.SD] : 
   - Connectique côté PC : USB Type C.  
@@ -54,7 +54,7 @@ Carte testée et fonctionnelle.
   - Ajout de protections anti-ESD 
   - Ajout d'une protection par fusible (63V 1A).
   - Pour les voyants RX/TX, nécéssite d'être configuré par le logiciel "Xpress Configurator" de Silicon Labs. 
-Carte testée, D+ et D- inversés au niveau du connecteur USB-C, design à refaire (aprés correction, le reste est fonctionnelle).
+-> Carte testée, D+ et D- inversés au niveau du connecteur USB-C, design à refaire (aprés correction, le reste est fonctionnelle).
 
 ## A faire :
 
