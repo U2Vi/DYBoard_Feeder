@@ -65,3 +65,4 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
 - Utiliser les outils de configuration de SiliconLabs
 - Ajouter des photos
 - Ajouter empreinte carte à carte Althium
+- Add liens PCBWAY
