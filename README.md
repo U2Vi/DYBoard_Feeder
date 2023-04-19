@@ -1,6 +1,6 @@
 # DYBoard_Feeder
 
-# Projet d'électonique 2022/2023
+# Projet d'électronique 2022/2023
 
 Dans ce réertoir, vous trouverez :
 - Fichiers de CAO en électronique sous Altium. 
