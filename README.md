@@ -21,7 +21,7 @@ L'objectif de DYBoard est de pouvoir facilement créer des prototypes personnali
 
 ## Spécifications
 
-*Les cartes "Feeder" sont des interfaces de communication série vers des microcontrôleurs ou d'autres systèmes embarqués.
+* Les cartes "Feeder" sont des interfaces de communication série vers des microcontrôleurs ou d'autres systèmes embarqués.
 Elles embarques un UDCC (Universal Device Communication Controller) et communique via une interface UART (Universal Asynchronous Receiver-Transmitter).
 Elles sont conçues pour téléverser des programmes sur les séries de microcontrolleurs ESP32 (Mais peuvent trés bien fonctionner pour d'autres µC). 
 
@@ -31,7 +31,10 @@ L'utilisation des broches TXD, RXD, RTS et DTR permettent de mettre les ESP-32 a
 
 * Utilisation de l'IDE arduino (V1 et/ou V2) pour téléverser automatiquement des programmes vers des microcontrolleurs ESP-32 (WROOM-32E / WROOM-32UE / WROOM-32D / S3-WROOM / etc ...)
 
-## Versiionement :
+## Versionement :
+
+* V1 : 
+* V2 : 
 
 ## A faire :
 
