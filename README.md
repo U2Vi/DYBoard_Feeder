@@ -11,12 +11,11 @@ Dans ce réertoir, vous trouverez :
 ## Contexte 
 
 * Généralités :  
-DYBoard est un projet de conception de cartes électroniques modulaires pour la recherche scientifique (et autre). 
+DYBoard est un projet de conception de cartes électroniques modulaires pour la recherche scientifique. 
 Les cartes DYBoard peuvent être connectées entre elles pour créer des systèmes polyvalents et complexes. 
 Chaque type de carte à une/des fonction/s spécifique/s. 
 Les cartes DYBoard sont conçues pour être compatibles entre elles, ce qui permet de les assembler selon les besoins spécifiques de chaque projet. 
 Les cartes DYBoard sont des solutions modulaires pour les personnes qui cherchent à réaliser des projets complexes ayant des besoins en électronique et programmation de microcontrôleurs. 
-L'objectif de DYBoard est de pouvoir facilement créer des prototypes personnalisés et modulaires pour la recherche scientifique (ou des projets d'ingénierie).
 
 
 ## Spécifications
